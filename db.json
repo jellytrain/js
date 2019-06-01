@@ -1,13 +1,7 @@
 {
   "data": [
-    {
-      "avatar": "https://images.dog.ceo/breeds/african/n02116738_5241.jpg"
-    },
-    {
-      "avatar": "https://images.dog.ceo/breeds/weimaraner/n02092339_437.jpg"
-    },
-    {
-      "avatar": "https://images.dog.ceo/breeds/dane-great/viber image 2019-03-17 , 00.27.40.jpg"
-    }
+    {"avatar": "https://images.dog.ceo/breeds/african/n02116738_5241.jpg"},
+    {"avatar": "https://images.dog.ceo/breeds/weimaraner/n02092339_437.jpg"},
+    {"avatar": "https://images.dog.ceo/breeds/dane-great/viber image 2019-03-17 , 00.27.40.jpg"}
   ]
 }
